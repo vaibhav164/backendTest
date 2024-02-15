@@ -1,0 +1,19 @@
+{
+  "name": "backend_demo",
+  "version": "1.0.0",
+  "description": "My first Backend Demo project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "vaibhav singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2"
+  }
+}
